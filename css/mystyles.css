@@ -1,0 +1,33 @@
+body{
+	text-align:center;
+	
+}
+
+#title{
+	background-color:grey;
+	padding:40px;
+	border: 5px solid white;
+	border-radius:30px;
+	font-family: 'Germania One', cursive;
+	color:white;
+}
+
+
+.row-header{
+	padding-top:80px;
+	padding-bottom:30px;
+}
+.container{
+	margin:0px auto;
+}
+
+.well{
+	height:250px;
+	font-family: 'Aref Ruqaa', serif;
+}
+
+#getQuote{
+	background-color:black;
+	color:white;
+	font-family: 'Germania One', cursive;
+}
