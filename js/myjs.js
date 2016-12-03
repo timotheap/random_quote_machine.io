@@ -13,7 +13,7 @@
 	
 	$mybutton.text('Get another quote!');
 
-	var quoteUrl = 'http://quotes.stormconsultancy.co.uk/random.json'
+	var quoteUrl = 'https://quotes.stormconsultancy.co.uk/random.json'
 	$.getJSON(quoteUrl, function(data){
 				
 		console.log(data);
